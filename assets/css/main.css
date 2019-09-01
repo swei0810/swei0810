@@ -3919,3 +3919,9 @@ input, select, textarea {
 	justify-content: space-between; 
 }
 
+
+
+/* gifs  */
+.giphs {
+	display: flex; 
+}
